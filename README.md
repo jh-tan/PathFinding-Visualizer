@@ -1,6 +1,6 @@
 # PathFinding-Visualizer
 
-A simple Pathfinding visualizer built by using pygame. It consists of three pathfinding methods which are A*, breath-first search(BFS) and dijkstra.
+A simple Pathfinding visualizer built by using pygame. It consists of three pathfinding methods which are A*, breadth-first search(BFS) and dijkstra.
 
 # Instruction
 * Simply Run from the pathfinding.exe
