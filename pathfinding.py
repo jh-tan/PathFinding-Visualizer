@@ -97,7 +97,7 @@ class Spot:
         
 
 
-        # IF DIAGONAL IS ALLOW
+        # ALLOW DIAGONAL
         # if self.row <self.total_rows -1 and self.col>0 and not grid[self.row+1][self.col-1].is_barrier(): #DIAG-LEFT-DOWN
         #     self.neightbors.append(grid[self.row+1][self.col-1])
 
